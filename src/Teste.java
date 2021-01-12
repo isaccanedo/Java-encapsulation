@@ -1,6 +1,11 @@
 
 public class Teste {
 	
+	/* +---------------------------------------------
+	 * | @author Isac Canedo
+	 * +---------------------------------------------
+	 */
+	
 	private void correr() {
 		System.out.println("Correndo!");
 	}
